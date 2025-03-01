@@ -1,0 +1,42 @@
+#root {
+  
+  
+  text-align: center;
+  
+}
+
+body{
+   display: flex;
+  justify-content: center;
+  align-items: center; 
+   background: linear-gradient(to right, rgb(0, 0, 0), rgb(183, 215, 238));
+}
+.main {
+  padding-top: 60px; 
+}
+
+.heading {
+  width: 100%; 
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white; 
+  padding: 15px 0; 
+  text-align: center;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  z-index: 1000; 
+  font-size: xx-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.cards {
+  margin-top: 70px;
+  
+}
+
+.lilc{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}

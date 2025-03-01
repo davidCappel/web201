@@ -1,0 +1,10 @@
+.card {
+  width: auto; /* Set a fixed width or adjust as needed */
+  background-color: white;
+  color:black;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 7px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  
+}
