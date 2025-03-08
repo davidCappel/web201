@@ -1,0 +1,33 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+body{
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+  
+  background: radial-gradient(grey, rgb(189, 189, 36), white);
+}
+
+.title {
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+  position: fixed; 
+  top: 0;
+  left: 600px;
+  z-index: 1000; 
+  
+}
+
+.subtitle {
+  margin-bottom: auto;
+}
+
+.card{
+  margin-top: 100px;
+}
