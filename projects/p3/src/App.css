@@ -1,0 +1,53 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+body{
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+  
+  background: radial-gradient(grey, rgb(189, 189, 36), white);
+}
+
+.title {
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+  position: fixed; 
+  top: 0;
+  left: 600px;
+  z-index: 1000; 
+  
+}
+
+.subtitle {
+  margin-bottom: auto;
+}
+
+.card{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.feedback {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.proj{
+  color: black;
+}
