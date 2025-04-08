@@ -1,0 +1,41 @@
+useing the "fetch" command , we can access and call APIs
+
+axios is a library that makes fetching apis better.
+  axios.get(myURL)
+    .then(response => console.log(response.data))
+npm install axios
+
+we use asychronys coding and functions, so that you can continue to execute code,
+so you do have to wait for a request(which can take forevr) to continue with execution
+of other tasks
+
+one of the biggest way this works is through "promises"
+
+a "promise" basically is a promise, that will resolve to actual data once the data
+has become available  whenver the server has given back the data. The promise is a 
+place holder for acutal data, so that we can continue with the execution of other
+code. Once the data has come back, or the request has resolve a promise can turn into 
+2 different states, either a "failed promise, or a "successfull promise"
+
+when a promise fails, if your call back function is not designed to handle, or examine errors you may
+not know if your promise failed. 
+.then(response => console.log(response.data), err => console.log(err))
+
+
+we use asych await when handelling promises and 
+
+
+conditional rendering:
+  based on a ceartin condition, displaying to the user different things
+
+  iserror = true
+
+
+  if (iserror){
+
+    return (
+      <div>
+          Hello
+      </div>
+    )
+  }
