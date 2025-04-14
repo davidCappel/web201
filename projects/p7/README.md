@@ -36,11 +36,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+(https://www.loom.com/share/aa6afab1857844b0863ccbb349768dd6?sid=43483b56-ebaf-482e-9c4d-fb2ed0f16c43)[myvid]
 
 ## Notes
 
