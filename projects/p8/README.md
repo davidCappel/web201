@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+(https://www.loom.com/share/e935d78c9f564358b35b30d861de46ae?sid=6934fe56-bc0d-4239-a840-d73ca8fcffbb)[myVideo]
 
 
 
